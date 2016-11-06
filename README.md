@@ -12,9 +12,9 @@ It is based on the work done by the fine folks at AWS on the [amazon-redshift-mo
 
 Getting Started
 ---------------
-For an in-depth setup guide, please see the [Setup Wiki](https://github.com/russch/redshift-monitor/wiki/Setup)
+For an in-depth setup guide, please see the [Setup Wiki](https://github.com/tableau/redshift-monitor/wiki/Setup)
 
-To learn about the Tableau workbook and the information you can analyze, read the  [Wiki Home](https://github.com/russch/redshift-monitor/wiki) page.
+To learn about the Tableau workbook and the information you can analyze, read the  [Wiki Home](https://github.com/tableau/redshift-monitor/wiki) page.
 
 Is redshift-monitor supported?
 ---------------
