@@ -2,7 +2,7 @@
 
 redshift-monitor allows you to capture, save, and analyze AWS Redshift performance metrics with Tableau Desktop.
 
-It is based on the work done by the fine folks at AWS on the [amazon-redshift-monitoring](https://github.com/awslabs/amazon-redshift-monitoring) project, expect we capture a more metrics, save them in RDS and visualize with Tableau.
+It is based on the work done by the fine folks at AWS on the [amazon-redshift-monitoring](https://github.com/awslabs/amazon-redshift-monitoring) project, expect we capture a few more metrics, save them in RDS and visualize with Tableau.
 
 ### It includes:
 
