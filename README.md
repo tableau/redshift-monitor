@@ -8,7 +8,7 @@ It is based on the work done by the fine folks at AWS on the [amazon-redshift-mo
 
 * A SQL script to create a metric repository in Amazon Web Services RDS (PostgreSQL)
 * An AWS Lambda function (written in Node.js) which collects metrics from Redshift and inserts them into the repository
-* A Tableau workbook which connects to the repository and illustrates the use of said metrics. It also documents why these metrics are important
+* [A Tableau workbook] (https://github.com/tableau/redshift-monitor/releases) which connects to the repository and illustrates the use of said metrics. It also documents why these metrics are important
 
 Getting Started
 ---------------
