@@ -1,0 +1,19 @@
+ALTER TABLE public.redshift_results
+    ADD COLUMN lasthour_wlm_total_queuetime_by_queue double precision DEFAULT 0;
+	
+ALTER TABLE public.redshift_results
+    ADD COLUMN wlm_queue_id integer;
+	
+ALTER TABLE public.redshift_results
+    ADD COLUMN lashour_wlm_queries_spilled_to_disk_count integer DEFAULT 0;
+	
+ALTER TABLE public.redshift_results
+    ADD COLUMN lasthour_wlm_maxqueryexecutiontime_sec double precision;
+	
+ALTER TABLE public.redshift_results
+    ADD COLUMN lasthour_wlm_avgqueryexecutiontime_sec double precision;
+	
+ALTER TABLE public.redshift_results
+    ADD COLUMN lasthour_wlm_query_count integer;
+	
+	

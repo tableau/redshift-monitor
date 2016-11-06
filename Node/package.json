@@ -1,0 +1,25 @@
+{
+  "name": "redshift-monitor",
+  "version": "0.0.1",
+  "description": "A Lambda Function to Monitor Redshift",
+  "main": "redshift-monitor.js",
+  "dependencies": {
+    "type-detect": "^2.0.2",
+    "pg": "^6.1.0",
+    "async": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "redshift",
+    "tableau"
+  ],
+  "author": "Yarbrough & Peoples",
+  "license": "ISC"
+}
