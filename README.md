@@ -1,4 +1,5 @@
 # redshift-monitor
+[![Community Supported](https://img.shields.io/badge/Support%20Level-Community%20Supported-457387.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
 
 redshift-monitor allows you to capture, save, and analyze AWS Redshift performance metrics with Tableau Desktop.
 
@@ -18,7 +19,7 @@ To learn about the Tableau workbook and the information you can analyze, read th
 
 Is redshift-monitor supported?
 ---------------
-Redshift Monitor is made available AS-IS with no support. Any bugs discovered should be filed in the Redshift Monitor Git issue tracker.
+Redshift Monitor is community supported. Any bugs discovered should be filed in the Redshift Monitor Git issue tracker.
 
 How can I contribute to redshift-monitor?
 ---------------
